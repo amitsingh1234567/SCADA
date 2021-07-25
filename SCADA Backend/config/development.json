@@ -1,0 +1,6 @@
+{
+    "name":"My Node App - Development",
+    "database":{
+        "host":"127.0.0.1:5000"
+    }
+}
